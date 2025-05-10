@@ -10,4 +10,4 @@ As part of the Forage x PwC Virtual Internship, I built this end-to-end Call Cen
 Data modeling and transformation
 DAX for KPI calculations
 Visual storytelling and interactive dashboard design
-Performance benchmarking and root cause analysis
+Performance benchmarking and root cause analysis.
